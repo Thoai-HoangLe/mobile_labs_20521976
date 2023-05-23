@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "34297662138",
+    "project_id": "lap04mobile",
+    "storage_bucket": "lap04mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34297662138:android:c132a19f7c7e15a3d41083",
+        "android_client_info": {
+          "package_name": "com.example.lap04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34297662138-a462n6f0tmi9ur95jqjv6kua3ecf0lrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH6lkQv0GFcOEWJefewBe7jAfn8g1HrZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34297662138-a462n6f0tmi9ur95jqjv6kua3ecf0lrj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34297662138-e09th27a4ceqsnsfp96iootniv100p2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lap04"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34297662138:android:dac0b5d1a8a23ffbd41083",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34297662138-a462n6f0tmi9ur95jqjv6kua3ecf0lrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH6lkQv0GFcOEWJefewBe7jAfn8g1HrZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34297662138-a462n6f0tmi9ur95jqjv6kua3ecf0lrj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34297662138-e09th27a4ceqsnsfp96iootniv100p2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lap04"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
